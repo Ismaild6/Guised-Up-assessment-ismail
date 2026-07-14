@@ -1,0 +1,4 @@
+*
+!.gitignore
+!database/
+!database/.gitkeep
